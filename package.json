@@ -1,0 +1,17 @@
+{
+  "name": "tj-vue3-project",
+  "private": true,
+  "version": "1.0.0",
+  "description": "qiankun+monorepo+vue3+ts+formily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mzy",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4",
+  "dependencies": {
+    "ant-design-vue": "^4.2.6"
+  }
+}

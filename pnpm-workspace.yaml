@@ -1,0 +1,2 @@
+packages:
+  - 'packages/*' # 将packages下所有一级子包都当作工作区

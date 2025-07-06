@@ -1,0 +1,10 @@
+{
+  "extends": "tsconfig.base.json",
+  "compilerOptions": {},
+  "references": [
+    { "path": "packages/accounting" },
+    { "path": "packages/expenses" },
+    { "path": "packages/portal" },
+    { "path": "packages/shared" }
+  ]
+}

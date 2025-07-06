@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "baseUrl": ".",
+    "paths": {
+      "accounting": ["packages/accounting/src"],
+      "expenses": ["packages/expenses/src"],
+      "portal": ["packages/portal/src"],
+      "shared": ["packages/shared/src"]
+    }    
+  }
+}
